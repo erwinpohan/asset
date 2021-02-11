@@ -1,0 +1,27 @@
+1. 
+email: 
+admin@mymail.click
+
+client id: 
+510739683743-lpihvl6ffc8vbrmeb0e6p9sajv8h2unh.apps.googleusercontent.com
+
+client secret:
+wN7-e7hgTbg5NiYCKvqsPnOq
+
+refresh token:
+1//04Qu14--YWUINCgYIARAAGAQSNwF-L9Irfrnrxbh60Ih7geSQPFOUjbODN_mhhwziSYOCfFqBRs4RvoSfA3B09Mi03IRIK0-7Hdc
+
+
+
+2. 
+email: 
+admin@mymail.click
+
+client id: 
+510739683743-iuguierv9j4aha1a5p8i0l5j4ifpocmb.apps.googleusercontent.com
+
+client secret:
+f7FttFMjA94U-O4xxydQA4id
+
+refresh token:
+1//044MFRCABUr4zCgYIARAAGAQSNwF-L9IrM9dAahGsx2T1Kav58kZ-GsV48y4l6_L5JMIRRAHve_AMDWb4v3zsM17qxaQrPtkgYF4
